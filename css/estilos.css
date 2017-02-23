@@ -1,0 +1,71 @@
+.f-heart{
+	font-family: Trebuchet MS;
+}
+
+.branco{
+	color: #FFF;
+}
+
+.fa-heart{
+	color: #ffd1e9 ;
+}
+
+.contact-bg{
+	background:#561a79;
+}
+
+.email {
+	color: #fff;
+}
+
+.button-outline {
+  color: white;
+  border-color: white;
+  border: 1px solid;
+  text-align: center;
+}
+
+.button-outline:hover,
+.button-outline:focus,
+.button-outline:active,
+.button-outline.active {
+  color: white;
+  background-color: #cf1575;
+  border-color: #cf1575;
+  text-decoration: none;
+
+}
+.button {
+  font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  border-radius: 300px;
+}
+.button-xl {
+  padding: 20px 40px;
+  font-size: 14px;
+  background-color: #561a79;
+}
+
+.seta-baixo:before {
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 10px;
+  width: 0; 
+  height: 0; 
+ 
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-top: 5px solid #fff;
+}
+
+.seta-cor {
+	color:#fff;
+	font-size: 18px;
+   -webkit-text-fill-color: #fff;
+
+}
+
+
+
